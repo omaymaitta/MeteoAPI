@@ -14,7 +14,7 @@
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyBfwzcWthisJaYr1pfvNeBEiNeUrf8NJ4k" />
-
+//clé de dernière exo
         <activity android:name=".MapView"
             android:theme="@style/Theme.AppCompat.Light"
             />
